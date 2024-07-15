@@ -30,8 +30,8 @@ function get_IP_address()
     }
 }
 
-echo "sfhbgsdjghjsdhg";
-die();
+// echo "sfhbgsdjghjsdhg";
+// die();
 
 $ip = get_IP_address();
 

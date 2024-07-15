@@ -283,7 +283,7 @@
                   }),
                   (0, n.jsx)("meta", {
                     property: "og:copyright",
-                    content: "hello@Inkfinity Tech.com",
+                    content: "hello@inkfinitytech.com",
                   }),
                   (0, n.jsx)("meta", {
                     name: "twitter:site",

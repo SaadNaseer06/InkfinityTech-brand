@@ -350,7 +350,7 @@
                   }),
                   (0, l.jsx)("meta", {
                     property: "og:copyright",
-                    content: "hello@Inkfinity Tech.com",
+                    content: "hello@inkfinitytech.com",
                   }),
                   (0, l.jsx)("meta", {
                     name: "twitter:site",
@@ -1057,10 +1057,10 @@
                             (0, l.jsx)("h4", {
                               className: "overflow-visible",
                               children: (0, l.jsx)(d(), {
-                                href: "mailto:hello@Inkfinity Tech.com",
+                                href: "mailto:hello@inkfinitytech.com",
                                 className:
                                   "tr__cursor__hoverable tr__magnetic inline-block",
-                                children: "hello@Inkfinity Tech.com",
+                                children: "hello@inkfinitytech.com",
                               }),
                             }),
                           ],

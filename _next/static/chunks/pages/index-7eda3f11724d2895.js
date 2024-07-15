@@ -564,7 +564,7 @@
                                     }),
                                     (0, s.jsx)("meta", { property: "og:image", content: Z.ogLogo.src }),
                                     (0, s.jsx)("meta", { property: "og:site_name", content: "Inkfinity Tech\xae" }),
-                                    (0, s.jsx)("meta", { property: "og:copyright", content: "hello@Inkfinity Tech.com" }),
+                                    (0, s.jsx)("meta", { property: "og:copyright", content: "hello@inkfinitytech.com" }),
                                     (0, s.jsx)("meta", { name: "twitter:site", content: "@Inkfinity Tech_design" }),
                                     (0, s.jsx)("meta", { name: "HandheldFriendly", content: "True" }),
                                     (0, s.jsx)("meta", { name: "theme-color", content: "#000000" }),

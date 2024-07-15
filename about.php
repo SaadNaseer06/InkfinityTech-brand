@@ -1408,8 +1408,8 @@
                     <h4 class="overflow-visible">
                       <a
                         class="tr__cursor__hoverable tr__magnetic inline-block"
-                        href="mailto:hello@Inkfinity Tech.com"
-                        >hello@Inkfinity Tech.com</a
+                        href="mailto:hello@inkfinitytech.com"
+                        >hello@inkfinitytech.com</a
                       >
                     </h4>
                   </div>

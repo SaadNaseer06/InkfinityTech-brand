@@ -32049,14 +32049,14 @@
             className: "tr__container tr__site__loader__container",
             children: [
               (0, tn.jsx)("div", {
-                className: "tr__site__loader__wrapper",
-                children: (0, tn.jsx)("div", {
-                  className:
-                    "w-52 h-52 sm:w-28 sm:h-28 m-auto -mb-6 sm:-mb-3 loader-stagger ".concat(
-                      "true" == ta ? "" : "mix-blend-difference"
-                    ),
-                  children: (0, tn.jsx)(ef(), { animationData: eb, loop: !1 }),
-                }),
+                className: "tr__site__loader__wrapper flex justify-center items-center",
+                children: [
+                  (0, tn.jsx)("img", {
+                    src: "assets/images/inkfinity-logo.gif", 
+                    alt: "Description of image",
+                    className: "optional_image_class",
+                  }),
+                ],
               }),
               (0, tn.jsx)("p", { className: "numbers hidden" }),
             ],
@@ -32323,10 +32323,10 @@
                                 (0, tn.jsx)("h4", {
                                   className: "overflow-visible",
                                   children: (0, tn.jsx)(tc(), {
-                                    href: "mailto:hello@Inkfinity Tech.com",
+                                    href: "mailto:hello@inkfinitytech.com",
                                     className:
                                       "tr__cursor__hoverable tr__magnetic inline-block",
-                                    children: "hello@Inkfinity Tech.com",
+                                    children: "hello@inkfinitytech.com",
                                   }),
                                 }),
                               ],
@@ -32528,10 +32528,10 @@
                         className:
                           "tr__navigations__email tr__cursor__hoverable mb-1 invisible",
                         children: (0, tn.jsx)("a", {
-                          href: "mailto:hello@Inkfinity Tech.com",
+                          href: "mailto:hello@inkfinitytech.com",
                           className: "inline-block tr__magnetic",
                           children: (0, tn.jsx)("span", {
-                            children: "hello@Inkfinity Tech.com",
+                            children: "hello@inkfinitytech.com",
                           }),
                         }),
                       }),

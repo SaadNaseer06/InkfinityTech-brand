@@ -27,7 +27,7 @@
       content="http://localhost/brand/_next/static/media/Inkfinity Tech-logo.a737ca31.png"
     />
     <meta property="og:site_name" content="Inkfinity Tech®" />
-    <meta property="og:copyright" content="hello@Inkfinity Tech.com" />
+    <meta property="og:copyright" content="hello@inkfinitytech.com" />
     <meta name="twitter:site" content="@Inkfinity Tech_design" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="theme-color" content="#000000" />
@@ -937,8 +937,8 @@
                     <h4 class="overflow-visible">
                       <a
                         class="tr__cursor__hoverable tr__magnetic inline-block"
-                        href="mailto:hello@Inkfinity Tech.com"
-                        >hello@Inkfinity Tech.com</a
+                        href="mailto:hello@inkfinitytech.com"
+                        >hello@inkfinitytech.com</a
                       >
                     </h4>
                   </div>

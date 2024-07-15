@@ -57,7 +57,7 @@ if ($loc_data && isset($loc_data['country'])) {
     <meta property="og:description" content="Inkfinity Tech® - Crafting Tailored Solutions in Web, Mobile, Software Design and Development." />
     <meta property="og:image" content="http://localhost/brand/_next/static/media/Inkfinity Tech-logo.a737ca31.png" />
     <meta property="og:site_name" content="Inkfinity Tech®" />
-    <meta property="og:copyright" content="hello@Inkfinity Tech.com" />
+    <meta property="og:copyright" content="hello@inkfinitytech.com" />
     <meta name="twitter:site" content="@Inkfinity Tech_design" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="theme-color" content="#000000" />
